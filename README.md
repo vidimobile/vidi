@@ -1,0 +1,2 @@
+# vidi
+vidimobile core system
